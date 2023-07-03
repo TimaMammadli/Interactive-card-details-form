@@ -1,0 +1,153 @@
+.container {
+  width: 300px;
+  border: 1px solid rgb(179, 181, 162);
+  padding: 40px;
+  margin: 0px;
+  border-radius: 10px;
+  background-image: url(./images/bg-card-front.png);
+  height: 120px;
+  position: absolute;
+  left: 200px;
+  top: 150px;
+  transform: scale(1.2);
+}
+
+body {
+  background-image: url(./images/bg-main-desktop.png);
+  background-repeat: no-repeat;
+}
+.container {
+  position: relative;
+}
+
+.card0 {
+  position: absolute;
+  left: 30px;
+  top: 95px;
+}
+
+.namef {
+  position: absolute;
+  left: 10px;
+top: 150px;
+}
+
+.date0 {
+  position: absolute;
+ left: 320px;
+ top: 152px;
+}
+
+.logo
+{
+  position: absolute;
+  width: 84px;
+  height: 47px;
+}
+
+.container2{
+  width: 286px;
+  border: 1px solid rgb(179, 181, 162);
+  padding: 40px;
+  margin: 0px;
+  border-radius: 10px;
+  height: 120px;
+  position: absolute;
+  left: 250px;
+  top: 450px;
+  transform: scale(1.2);
+  background-image: url(./images/bg-card-back.png);
+  background-size: contain;
+  background-repeat: no-repeat;
+ 
+
+}
+.cvv{
+  position: absolute;
+  left: 300px;
+  top: 70px;
+}
+.p{
+  position: absolute;
+  right: 350px;
+  top: 150px;
+  font-size: 13px;
+}
+.input1{
+  position: absolute;
+  right: 250px;
+  top: 200px;
+  width: 300px;
+  border-radius: 6px;
+  height: 25px;
+}
+.p2{
+  position: absolute;
+  right: 360px;
+  top: 240px;
+  font-size: 13px;
+}
+.input2{
+  position: absolute;
+  right: 250px;
+  top: 280px;
+  width: 300px;
+  border-radius: 6px;
+  height: 25px;
+}
+.p3{
+  position: absolute;
+  right: 450px;
+  top: 380px;
+  font-size: 13px;
+}
+.input3{
+  position: absolute;
+  right: 510px;
+  top: 420px;
+  width: 50px;
+  border-radius: 6px;
+  height: 34px;
+}
+.input4{
+  position: absolute;
+  right: 430px;
+  top: 420px;
+  width: 50px;
+  border-radius: 6px;
+  height: 34px;
+}
+.p4{
+  position: absolute;
+  right: 350px;
+  top: 380px;
+  font-size: 13px;
+
+}
+
+.input5{
+  position: absolute;
+  right: 290px;
+  top: 420px;
+  width: 100px;
+  border-radius: 6px;
+  height: 35px;
+}
+.button{
+  position: absolute;
+  right:200px ;
+  top: 530px;
+  width: 400px;
+  border-radius: 6px;
+  height: 40px;
+  background-color: blueviolet;
+}
+.n1{
+  font-size: larger;
+}
+.n2{
+  font-size: larger;
+}
+.n3{
+  font-size: larger;
+}
